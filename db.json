@@ -1,0 +1,104 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "signupUsers": [
+    {
+      "username": "Siva",
+      "email": "siva.sece@sece.ac.in",
+      "password": "Siva",
+      "phonenumber": 7092648001,
+      "id": 1
+    },
+    {
+      "username": "SivaGanesh",
+      "email": "siva",
+      "password": "",
+      "phonenumber": "",
+      "id": 2
+    },
+    {
+      "username": "partha",
+      "email": "partha@123",
+      "password": "Partha",
+      "phonenumber": 709375627,
+      "id": 3
+    },
+    {
+      "username": "Siva Ganesh S",
+      "email": "sivaganeshsg22@gmail.com",
+      "password": "siva",
+      "phonenumber": 7092648001,
+      "id": 4
+    }
+  ],
+  "flights": [
+    {
+      "source": "Delhi",
+      "destination": "Chennai",
+      "id": 1001,
+      "time": "3:00",
+      "fare": 2000
+    },
+    {
+      "source": "Delhi",
+      "destination": "Chennai",
+      "id": 1002,
+      "time": "22:00",
+      "fare": 2200
+    },
+    {
+      "source": "Ranchi",
+      "destination": "Mumbai",
+      "id": 1003,
+      "time": "13:00",
+      "fare": 2000
+    },
+    {
+      "source": "Mangalore",
+      "destination": "Chennai",
+      "id": 1004,
+      "time": "13:00",
+      "fare": 2000
+    },
+    {
+      "source": "Delhi",
+      "destination": "Chennai",
+      "id": 1005,
+      "time": " 13:00",
+      "fare": 2000
+    },
+    {
+      "source": "Delhi",
+      "destination": "Chennai",
+      "id": 1006,
+      "time": "13:00",
+      "fare": 2000
+    },
+    {
+      "source": "Delhi",
+      "destination": "Mumbai",
+      "id": 1007,
+      "time": "9:00",
+      "fare": 2000
+    },
+    {
+      "source": "Delhi",
+      "destination": "Mangalore",
+      "id": 1008,
+      "time": "9:00",
+      "fare": 2000
+    }
+  ],
+  "selectedFlights": [],
+  "admin": [
+    {
+      "username": "admin",
+      "password": "admin"
+    }
+  ]
+}
